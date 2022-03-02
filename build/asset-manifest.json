@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3be25c8.chunk.css",
-    "main.js": "/static/js/main.06fb6159.chunk.js",
-    "main.js.map": "/static/js/main.06fb6159.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9d82485c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9d82485c.js.map",
-    "static/js/2.b4b2baf2.chunk.js": "/static/js/2.b4b2baf2.chunk.js",
-    "static/js/2.b4b2baf2.chunk.js.map": "/static/js/2.b4b2baf2.chunk.js.map",
-    "static/js/3.8a840232.chunk.js": "/static/js/3.8a840232.chunk.js",
-    "static/js/3.8a840232.chunk.js.map": "/static/js/3.8a840232.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b3be25c8.chunk.css.map": "/static/css/main.b3be25c8.chunk.css.map",
-    "static/js/2.b4b2baf2.chunk.js.LICENSE.txt": "/static/js/2.b4b2baf2.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/static/media/font.617a0a92.woff"
+    "main.css": "/cocktail-bar-punks/static/css/main.e7fd97bf.chunk.css",
+    "main.js": "/cocktail-bar-punks/static/js/main.06fb6159.chunk.js",
+    "main.js.map": "/cocktail-bar-punks/static/js/main.06fb6159.chunk.js.map",
+    "runtime-main.js": "/cocktail-bar-punks/static/js/runtime-main.abee2eb4.js",
+    "runtime-main.js.map": "/cocktail-bar-punks/static/js/runtime-main.abee2eb4.js.map",
+    "static/js/2.e7f064fb.chunk.js": "/cocktail-bar-punks/static/js/2.e7f064fb.chunk.js",
+    "static/js/2.e7f064fb.chunk.js.map": "/cocktail-bar-punks/static/js/2.e7f064fb.chunk.js.map",
+    "static/js/3.8a840232.chunk.js": "/cocktail-bar-punks/static/js/3.8a840232.chunk.js",
+    "static/js/3.8a840232.chunk.js.map": "/cocktail-bar-punks/static/js/3.8a840232.chunk.js.map",
+    "index.html": "/cocktail-bar-punks/index.html",
+    "static/css/main.e7fd97bf.chunk.css.map": "/cocktail-bar-punks/static/css/main.e7fd97bf.chunk.css.map",
+    "static/js/2.e7f064fb.chunk.js.LICENSE.txt": "/cocktail-bar-punks/static/js/2.e7f064fb.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/cocktail-bar-punks/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d82485c.js",
-    "static/js/2.b4b2baf2.chunk.js",
-    "static/css/main.b3be25c8.chunk.css",
+    "static/js/runtime-main.abee2eb4.js",
+    "static/js/2.e7f064fb.chunk.js",
+    "static/css/main.e7fd97bf.chunk.css",
     "static/js/main.06fb6159.chunk.js"
   ]
 }
